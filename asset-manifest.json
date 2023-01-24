@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/basic_react_app/static/css/main.27af863c.css",
-    "main.js": "/basic_react_app/static/js/main.3f07906a.js",
-    "static/media/fakeCo.png": "/basic_react_app/static/media/fakeCo.25821796d4efc1e079ac.png",
-    "index.html": "/basic_react_app/index.html",
-    "main.27af863c.css.map": "/basic_react_app/static/css/main.27af863c.css.map",
-    "main.3f07906a.js.map": "/basic_react_app/static/js/main.3f07906a.js.map"
+    "main.css": "/gusg_portal/static/css/main.27af863c.css",
+    "main.js": "/gusg_portal/static/js/main.25680fb4.js",
+    "static/media/fakeCo.png": "/gusg_portal/static/media/fakeCo.25821796d4efc1e079ac.png",
+    "index.html": "/gusg_portal/index.html",
+    "main.27af863c.css.map": "/gusg_portal/static/css/main.27af863c.css.map",
+    "main.25680fb4.js.map": "/gusg_portal/static/js/main.25680fb4.js.map"
   },
   "entrypoints": [
     "static/css/main.27af863c.css",
-    "static/js/main.3f07906a.js"
+    "static/js/main.25680fb4.js"
   ]
 }
